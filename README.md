@@ -111,10 +111,12 @@ window.addEventListener("scroll", () => {
 ## Screenshots
 
 ### Navigation Menu (Default)
-![img_1](#)
+![img_1](https://github.com/user-attachments/assets/5952b5fc-a669-4164-9cb2-96fd7db193fc)
+
 
 ### Navigation Menu (Scrolled)
-![img_2](#)
+![img_2](https://github.com/user-attachments/assets/d0f422c3-ea1b-420f-ae04-d24ff497f1c2)
+
 
 ---
 
