@@ -111,10 +111,10 @@ window.addEventListener("scroll", () => {
 ## Screenshots
 
 ### Navigation Menu (Default)
-![Navigation Menu Default](#)
+![img_1](#)
 
 ### Navigation Menu (Scrolled)
-![Navigation Menu Scrolled](#)
+![img_2](#)
 
 ---
 
